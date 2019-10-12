@@ -24,6 +24,11 @@ a {
   overflow: hidden;
 }
 
+.mainpage {
+
+  width: 100px;
+}
+
 #horizontal-line {
   width: 500px;
   height: 1px;
@@ -37,10 +42,13 @@ a {
   text-align: center;
 }
 
-#copyright {
-
-}
 
 #contactfooterdiv {
   text-align: center;
+}
+
+#contactInformation {
+  text-align: center;
+  color: #42412c;
+  font-size: 18pt;
 }
