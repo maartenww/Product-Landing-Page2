@@ -9,12 +9,51 @@ a {
   color: #fcf9db;
 }
 
+.aboutdesiree {
+  margin: 50px;
+  background-color: #ebebd3;
+  padding: 20px;
+  box-shadow: 2px 2px 2px 2px grey;
+  text-align: center;
+  color: #45453e;
+  font-size: 17pt;
+}
+
+#aboutxd {
+  height: auto;
+  width: auto;
+  max-width: 400px;
+  max-height: 400px;
+}
+
+
 .footer {
   margin-top: 200px;
   padding: 10px;
   background-color: #514f37;
   color: #fcf9db;
-  height: 9em;
+  height: 5.5em;
   display: flex;
-  font-size: 12pt;
+  flex-direction: column;
+  padding-top: 80px;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-size: 13pt;
+  overflow: hidden;
+}
+
+#contactfooterdiv {
+  text-align: center;
+}
+
+#copyrightdiv {
+  background-color: #28271b;
+  flex-basis: auto;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+#copyright {
+  font-size: 11pt
 }
